@@ -1,4 +1,3 @@
-"
 + Fixed rendering issues with the ClickGUI
 + Fixed main menu button animations flickering
 + Fixed item physics
@@ -10,4 +9,3 @@
 - Removed Freelook
 - Removed Snaplook
 - Removed premium features
-"
