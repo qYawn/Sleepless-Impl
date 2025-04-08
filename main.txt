@@ -1,0 +1,13 @@
+"
++ Fixed rendering issues with the ClickGUI
++ Fixed main menu button animations flickering
++ Fixed item physics
+
++ Added Armor Status
++ Added Clock Display
++ Added Splash Screen
+
+- Removed Freelook
+- Removed Snaplook
+- Removed premium features
+"
