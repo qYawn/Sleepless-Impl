@@ -1,6 +1,6 @@
 "
-+ Fixed rendering issues with the ClickGUI
-+ Fixed main menu button animations flickering
++ Fixed issues with the gui
++ Fixed main menu button animations
 + Fixed item physics
 
 + Added Armor Status
